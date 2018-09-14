@@ -31,13 +31,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.guoji.rnapp</string>
+				<string>com.yinhai.mdlife</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>rnapp</string>
+				<string>国基通</string>
 			</dict>
 		</dict>
 	</array>
